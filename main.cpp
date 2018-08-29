@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
-	cout << " This is branch 1";
+	cout << "This is branch2";
+	
 	return 0;
 }
