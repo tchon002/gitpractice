@@ -1,3 +1,5 @@
-print ("This is a test code")
-if x in range(0,5):
-	print x
+#!/usr/bin/env python
+
+print ("This is a python test")
+for x in range(0,5):
+	print (x)
